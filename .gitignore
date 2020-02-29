@@ -1,0 +1,10 @@
+.DS_Store
+.Rproj.user
+.Rhistory
+*.RData
+.Ruserdata
+!datos_taller1.RData
+*.R
+!signos.R
+*.dta
+sesion2/
