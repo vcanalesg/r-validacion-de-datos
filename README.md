@@ -12,7 +12,7 @@ El curso también tiene por objetivo presentar el flujo de trabajo básico de va
 
 Clase 1: Introducción a R (3 de marzo, sala N12)
 
-- [Código clases](https://www.dropbox.com/sh/lmh8dy6ircatnj5/AADs7Srdmy94b6KToCMai8D4a?dl=0)
+- [Código clases](https://www.dropbox.com/sh/lmh8dy6ircatnj5/AADs7Srdmy94b6KToCMai8D4a?dl=0&preview=codigo-en-vivo1.R)
 - [Presentación](https://docs.google.com/presentation/d/1SG_JSgKvfkdnTheBg6MpGicCYCuhrr9r-aUN-Dk3UB8/edit?usp=sharing)
 
 Clase 2: Usando sentencias lógicas (10 de marzo, sala N11)
