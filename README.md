@@ -15,7 +15,10 @@ Clase 1: Introducción a R (3 de marzo, sala N12)
 - [Código clases](https://www.dropbox.com/sh/lmh8dy6ircatnj5/AADs7Srdmy94b6KToCMai8D4a?dl=0&preview=codigo-en-vivo1.R)
 - [Presentación](https://docs.google.com/presentation/d/1SG_JSgKvfkdnTheBg6MpGicCYCuhrr9r-aUN-Dk3UB8/edit?usp=sharing)
 
-Clase 2: Usando sentencias lógicas (10 de marzo, sala N11)
+Clase 2: Usando sentencias lógicas (10 de marzo, sala 65)
+
+- [Código clases](https://www.dropbox.com/s/ou0cwbdsuwydnnj/codigo-en-vivo2.R?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/10ApWeylIQowlFbDoUgEScFgdAGmh-50HqIBT8Yfi8rM/edit?usp=sharing)
 
 Clase 3: Presentación del paquete validate (13 de marzo, sala N11)
 
