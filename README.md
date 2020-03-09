@@ -22,6 +22,9 @@ Clase 2: Usando sentencias lógicas (10 de marzo, sala 65)
 
 Clase 3: Presentación del paquete validate (13 de marzo, sala N11)
 
+- [Código clases](https://www.dropbox.com/s/tt7ojc3yn8kq9cw/codigo-en-vivo3.R?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/1FLZKA-ZvvCrMKm_-5FJ9XjOWzcF8ALp5Yxpd1j8hJHg/edit?usp=sharing)
+
 Clase 4: Analizar resultados del proceso de validación (16 de marzo, sala N11)
 
 Clase 5: Flujo de trabajo de validación (23 de marzo, sala N11)
